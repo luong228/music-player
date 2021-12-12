@@ -1,2 +1,2 @@
-# Music
-Link Demo : https://dhuyhoang3107.github.io/Music/
+# Music Player by anhluong059
+Link Demo : https://luong228.github.io/music-player/
